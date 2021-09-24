@@ -44,4 +44,4 @@ npm run dev
 ## Upcomings
 - User Profile page
 - User Settings page
-- Refactoring the codebase
+- Refactoring of the code.
